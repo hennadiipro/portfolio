@@ -18,12 +18,12 @@ export default function Page() {
       <Hero />
       <Intro />
       <Works />
-      <SectionContainer>
+      {/* <SectionContainer>
         <RecentPosts posts={posts} />
         <Suspense fallback="loading..">
           <TopTracks />
         </Suspense>
-      </SectionContainer>
+      </SectionContainer> */}
     </ScrollProvider>
   );
 }

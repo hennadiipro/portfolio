@@ -2,17 +2,17 @@ import { Project } from './types';
 
 export const projects: Project[] = [
   {
-    title: 'Aphex Planner',
-    src: 'planner-app.webp',
+    title: 'Stuart',
+    src: 'stuart.jpg',
     color: '#dbeafe',
-    url: 'https://app.aphex.co/',
-    role: 'Fullstack Developer',
+    url: 'https://stuart.com/',
+    role: 'Backend Developer',
   },
   {
-    title: 'Aphex Field',
-    src: 'field-app.webp',
+    title: 'Visenta Studio',
+    src: 'visenta.jpg',
     color: '#ddd6fe',
-    url: 'https://app.aphex.co/',
+    url: 'https://visentastudio.com/',
     role: 'Fullstack Developer',
   },
   {
@@ -23,31 +23,31 @@ export const projects: Project[] = [
     role: 'Fullstack Developer',
   },
   {
+    title: 'Varsity Learning',
+    src: 'varsity-learning.jpg',
+    color: '#fae8ff',
+    url: 'https://varsitylearning.com/',
+    role: 'Frontend Developer',
+  },
+  {
+    title: 'Yogaia Class',
+    src: 'yogaia.png',
+    color: '#dbeafe',
+    url: 'https://yogaia.com/',
+    role: 'Fullstack Developer',
+  },
+  {
+    title: 'Uptok',
+    src: 'uptok.png',
+    color: '#ddd6fe',
+    url: 'https://www.uptok.com/',
+    role: 'Fullstack Developer',
+  },
+  {
     title: 'Spoken',
     src: 'spoken.webp',
     color: '#fee2e2',
     url: 'https://www.spoken.io/',
-    role: 'Fullstack Developer',
-  },
-  {
-    title: 'Topography Health',
-    src: 'topo.webp',
-    color: '#dbeafe',
-    url: 'https://www.jointopo.com/',
-    role: 'Backend Developer',
-  },
-  {
-    title: 'SRI Big Data',
-    src: 'bigdata.webp',
-    color: '#ddd6fe',
-    url: 'https://bigdata.sri.com.sg',
-    role: 'Frontend Developer',
-  },
-  {
-    title: 'Mathgame',
-    src: 'mathgame.png',
-    color: '#ffedd5',
-    url: 'https://mathgame.dalelarroder.com/',
     role: 'Frontend Developer',
   },
   {
@@ -55,6 +55,6 @@ export const projects: Project[] = [
     src: 'snakegame.png',
     color: '#ecfccb',
     url: 'https://snakegame.dalelarroder.com/',
-    role: 'Frontend Developer',
+    role: 'Fullstack Developer',
   },
 ];

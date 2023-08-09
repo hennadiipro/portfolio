@@ -26,7 +26,7 @@ export default function Header() {
                   }
                 )}
               >
-                d.
+                D.
               </div>
             </Link>
           </div>
